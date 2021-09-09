@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\bin\Debug\netcoreapp3.1\DrivingLisenece.exe
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\bin\Debug\netcoreapp3.1\DrivingLisenece.deps.json
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\bin\Debug\netcoreapp3.1\DrivingLisenece.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\bin\Debug\netcoreapp3.1\DrivingLisenece.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\bin\Debug\netcoreapp3.1\DrivingLisenece.dll
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\bin\Debug\netcoreapp3.1\DrivingLisenece.pdb
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\obj\Debug\netcoreapp3.1\DrivingLisenece.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\obj\Debug\netcoreapp3.1\DrivingLisenece.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\obj\Debug\netcoreapp3.1\DrivingLisenece.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\obj\Debug\netcoreapp3.1\DrivingLisenece.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\obj\Debug\netcoreapp3.1\DrivingLisenece.dll
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\obj\Debug\netcoreapp3.1\DrivingLisenece.pdb
+C:\Users\opilane\source\repos\logitpe21\ControlFlow\DrivingLisenece\obj\Debug\netcoreapp3.1\DrivingLisenece.genruntimeconfig.cache
